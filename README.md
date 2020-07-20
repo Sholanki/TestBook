@@ -1,2 +1,2 @@
 # TestBook
-[Preface and Acknowledgments] (preface.asciidoc) | ### | :arrows_clockwise: |
+| [Preface and Acknowledgments](preface.asciidoc) | ### | :arrows_clockwise: |
